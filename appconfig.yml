@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url:jdbc: mysql://localhost:3306/murugan
+    url: jdbc:mysql://localhost:3306/murugan
     username: root
     password: Syntel123$
   jpa:
